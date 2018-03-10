@@ -60,6 +60,7 @@ test-suite test
   build-depends:
                        base                            >= 3          && < 5
                      , ambiata-twine
+                     , hedgehog                        >= 0.1        && < 1
                      , ambiata-disorder-core
                      , ambiata-p
                      , ambiata-x-eithert
